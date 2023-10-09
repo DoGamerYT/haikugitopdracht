@@ -6,7 +6,7 @@ function Haiku1() {
     console.log("Noiselessly");
 }
 
-function HaikuX() {
+function Haiku2() {
     console.log("Haiku by:","AUTHOR");
     console.log("REGEL1");
     console.log("REGEL2");

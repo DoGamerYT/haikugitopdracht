@@ -7,10 +7,10 @@ function Haiku1() {
 }
 
 function Haiku2() {
-    console.log("Haiku by:","AUTHOR");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
+    console.log("Haiku by:","Matsuo Bashō");
+    console.log("From time to time");
+    console.log("The clouds give rest");
+    console.log("To the moon-beholders.");
 }
 
 function HaikuX() {

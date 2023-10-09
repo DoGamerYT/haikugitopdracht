@@ -48,17 +48,23 @@ const haikus = [
         console.log("Must part.");
     },
     function Haiku9() {
-        console.log("Haiku by:", "- Masaoka Shiki");
+        console.log("Haiku by:", "Masaoka Shiki");
         console.log("My life, -");
         console.log("How much more of it remains?");
         console.log("The night is brief.");
     },
     function Haiku10() {
-        console.log("Haiku by:", "- Matsuo Bashō");
+        console.log("Haiku by:", "Matsuo Bashō");
         console.log("An old silent pond...");
         console.log("A frog jumps into the pond,");
         console.log("splash! Silence again.");
-    }.
+    },
+    function Haiku11() {
+        console.log("Haiku by:", "Kato Shuson");
+        console.log("I kill an ant");
+        console.log("and realize my three children");
+        console.log("have been watching.");
+    }
 ];
 
 haikus.forEach(haiku => haiku());

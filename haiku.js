@@ -1,20 +1,20 @@
 // plak hier de haiku functions onder elkaar
-function HaikuX(){
-    console.log("haiku by:","AUTHOR");
+function Haiku1() {
+    console.log("Haiku by:", "Kobayahsi Issa");
+    console.log("The wren");
+    console.log("Earns his living");
+    console.log("Noiselessly");
+}
+
+function HaikuX() {
+    console.log("Haiku by:","AUTHOR");
     console.log("REGEL1");
     console.log("REGEL2");
     console.log("REGEL3");
 }
 
-function HaikuX(){
-    console.log("haiku by:","AUTHOR");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
-}
-
-function HaikuX(){
-    console.log("haiku by:","AUTHOR");
+function HaikuX() {
+    console.log("Haiku by:","AUTHOR");
     console.log("REGEL1");
     console.log("REGEL2");
     console.log("REGEL3");

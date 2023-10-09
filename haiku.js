@@ -41,11 +41,18 @@ function Haiku6() {
     console.log("In the east.");
 }
 
-/*mick has small D*ck*/
+function Haiku7() {
+    console.log("Haiku by:", "Kobayashi Issa");
+    console.log("Winter seclusion -");
+    console.log("Listening, that evening,");
+    console.log("To the rain in the mountain.");
+}
+
 // Laat de code hieronder met rust
 Haiku1();
 Haiku2();
 Haiku3();
 Haiku4();
 Haiku5();
-Haiku6()
+Haiku6();
+Haiku7();

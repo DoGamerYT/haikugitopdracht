@@ -1,4 +1,4 @@
-// plak hier de haiku functions onder elkaar
+// Plak hier de haiku functions onder elkaar
 function Haiku1() {
     console.log("Haiku by:", "Kobayahsi Issa");
     console.log("The wren");
@@ -26,13 +26,17 @@ function Haiku4() {
     console.log("As one who loved poetry");
     console.log("And persimmons.");
 }
-/*Consider me
-As one who loved poetry
-And persimmons.
 
-- Masaoaka Shiki*/
+function Haiku5() {
+    console.log("Haiku by:", "Matsuo Bashō");
+    console.log("In the cicada's cry");
+    console.log("No sign can foretell");
+    console.log("How soon it must die.");
+}
 
-// laat de code hieronder met rust
-Haiku1()
-Haiku2()
-Haiku3()
+// Laat de code hieronder met rust
+Haiku1();
+Haiku2();
+Haiku3();
+Haiku4();
+Haiku5();

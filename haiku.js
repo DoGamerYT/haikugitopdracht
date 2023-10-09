@@ -64,7 +64,13 @@ const haikus = [
         console.log("I kill an ant");
         console.log("and realize my three children");
         console.log("have been watching.");
-    }
+    }, 
+    function Haiku12() {
+        console.log("Haiku by:", "Natsume Soseki,");
+        console.log("Over the wintry");
+        console.log("forest, winds howl in rage");
+        console.log("with no leaves to blow.");
+    },
 ];
 
 haikus.forEach(haiku => haiku());

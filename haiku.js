@@ -34,9 +34,18 @@ function Haiku5() {
     console.log("How soon it must die.");
 }
 
+function Haiku6() {
+    console.log("Haiku by:", "Yosa Buson");
+    console.log("Blowing from the west");
+    console.log("Fallen leaves gather");
+    console.log("In the east.");
+}
+
+/*mick has small D*ck*/
 // Laat de code hieronder met rust
 Haiku1();
 Haiku2();
 Haiku3();
 Haiku4();
 Haiku5();
+Haiku6()

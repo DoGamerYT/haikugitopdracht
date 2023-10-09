@@ -41,6 +41,12 @@ const haikus = [
         console.log("Winter seclusion -");
         console.log("Listening, that evening,");
         console.log("To the rain in the mountain.");
+    }.
+    () => {
+        console.log("Haiku by:", "Kobayashi Issa");
+        console.log("Don’t weep, insects -");
+        console.log("Lovers, stars themselves,");
+        console.log("Must part.");
     }
 ];
 

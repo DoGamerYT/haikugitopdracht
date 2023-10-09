@@ -52,7 +52,13 @@ const haikus = [
         console.log("My life, -");
         console.log("How much more of it remains?");
         console.log("The night is brief.");
-    }
+    },
+    function Haiku9() {
+        console.log("Haiku by:", "- Matsuo Bashō");
+        console.log("An old silent pond...");
+        console.log("A frog jumps into the pond,");
+        console.log("splash! Silence again.");
+    }.
 ];
 
 haikus.forEach(haiku => haiku());

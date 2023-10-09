@@ -66,10 +66,16 @@ const haikus = [
         console.log("have been watching.");
     }, 
     function Haiku12() {
-        console.log("Haiku by:", "Natsume Soseki,");
+        console.log("Haiku by:", "Natsume Soseki");
         console.log("Over the wintry");
         console.log("forest, winds howl in rage");
         console.log("with no leaves to blow.");
+    },
+    function Haiku13() {
+        console.log("Haiku by:", "Kobayashi Issa");
+        console.log("Sparrow's child");
+        console.log("out of the way, out of the way!");
+        console.log("the stallion's coming through");
     },
 ];
 

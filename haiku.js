@@ -20,6 +20,18 @@ function Haiku3() {
     console.log("Is full of regret.");
 }
 
+function Haiku4() {
+    console.log("Haiku by:", "Masaoaka Shiki");
+    console.log("Consider me");
+    console.log("As one who loved poetry");
+    console.log("And persimmons.");
+}
+/*Consider me
+As one who loved poetry
+And persimmons.
+
+- Masaoaka Shiki*/
+
 // laat de code hieronder met rust
 Haiku1()
 Haiku2()

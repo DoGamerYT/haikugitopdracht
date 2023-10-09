@@ -7,17 +7,17 @@ function Haiku1() {
 }
 
 function Haiku2() {
-    console.log("Haiku by:","Matsuo Bashō");
+    console.log("Haiku by:", "Matsuo Bashō");
     console.log("From time to time");
     console.log("The clouds give rest");
     console.log("To the moon-beholders.");
 }
 
-function HaikuX() {
-    console.log("Haiku by:","AUTHOR");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
+function Haiku3() {
+    console.log("Haiku by:", "Yosa Buson");
+    console.log("Over-ripe sushi,");
+    console.log("The Master");
+    console.log("Is full of regret.");
 }
 
 // laat de code hieronder met rust
